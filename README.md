@@ -1,2 +1,3 @@
 # MyGrocery
-E-commerce website
+E-commerce website.
+Team project.
