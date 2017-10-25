@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+html {
+	margin: auto;
+	color: #2E2E2E;
+	font-family: Times New Roman;
+	background-color: #e6f2ff;
+	max-width: 980px;
+}
+
+body {
+
+	padding: 0px;
+	height: 100%;
+}
+
+
+
+
+.article {
+    text-align: left;
+}
+
+
+
+.title {
+	margin: auto;
+	text-align: center;
+}
+
+.headnav {
+	margin:auto;
+	width: 90%;
+	text-align: center;
+	color: white;
+	backgroung-color:black;
+
+}
+
+th {
+	margin: auto;
+	text-align: center;
+	font-color: white;
+	backgroung-color:black;
+}
+
+.footer {
+	margin: auto;
+	background: #aaa;
+	text-align: center;
+	color:white;
+	}
