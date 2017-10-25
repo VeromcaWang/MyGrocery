@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MyGrocery-EJBEAR">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="MyGrocery-EJB.jar" deploy-path="/" handle="module:/resource/MyGrocery-EJB/MyGrocery-EJB">
+            <dependent-object>Module_1507760221503</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="MyGrocery-EJBClient.jar" deploy-path="/" handle="module:/resource/MyGrocery-EJBClient/MyGrocery-EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
